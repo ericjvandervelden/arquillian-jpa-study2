@@ -40,103 +40,134 @@
 			<groupId>org.wildfly</groupId>
 			<artifactId>wildfly-weld</artifactId>
 			<version>10.1.0.Final</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.wildfly</groupId>
 			<artifactId>wildfly-ee</artifactId>
 			<version>10.1.0.Final</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
 			<version>9.4-1202-jdbc42</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.jboss.ironjacamar</groupId>
 			<artifactId>ironjacamar-jdbc</artifactId>
 			<version>1.3.4.Final</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.jboss.ironjacamar</groupId>
 			<artifactId>ironjacamar-core-impl</artifactId>
 			<version>1.3.4.Final</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.jboss.ironjacamar</groupId>
 			<artifactId>ironjacamar-core-api</artifactId>
 			<version>1.3.4.Final</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.wildfly</groupId>
 			<artifactId>wildfly-connector</artifactId>
 			<version>10.1.0.Final</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.wildfly</groupId>
 			<artifactId>wildfly-transactions</artifactId>
 			<version>10.1.0.Final</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.jboss.narayana.jts</groupId>
 			<artifactId>narayana-jts-idlj</artifactId>
 			<version>5.3.3.Final</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.jboss.narayana.jts</groupId>
 			<artifactId>narayana-jts-integration</artifactId>
 			<version>5.3.3.Final</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.jboss</groupId>
 			<artifactId>jboss-transaction-spi</artifactId>
 			<version>7.3.0.Final</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.wildfly</groupId>
 			<artifactId>wildfly-jpa</artifactId>
 			<version>10.1.0.Final</version>
+			
 		</dependency>
 		<dependency>
 			<groupId>org.wildfly</groupId>
 			<artifactId>wildfly-ejb3</artifactId>
-			<version>16.0.0.Final</version>
+			<version>10.1.0.Final</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
 			<version>5.0.10.Final</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-entitymanager</artifactId>
 			<version>5.0.10.Final</version>
+			<scope>provided</scope>
 		</dependency>
-		<!--  hieronder not yet used -->
+
+		<!-- hieronder not yet used -->
 		<dependency>
 			<groupId>org.jboss.invocation</groupId>
 			<artifactId>jboss-invocation</artifactId>
 			<version>1.4.1.Final</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.jboss.msc</groupId>
 			<artifactId>jboss-msc</artifactId>
 			<version>1.2.6.Final</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.wildfly</groupId>
 			<artifactId>jipijapa-hibernate5</artifactId>
 			<version>10.1.0.Final</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.jboss.weld</groupId>
 			<artifactId>weld-core-impl</artifactId>
 			<version>2.3.5.Final</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.wildfly.security</groupId>
 			<artifactId>wildfly-elytron</artifactId>
 			<version>1.0.2.Final</version>
+			<scope>provided</scope>
 		</dependency>
+
+		<!--  TODO is toch transitive op wildfly-weld,  -->
+		
+		<dependency>
+			<groupId>org.jboss.remoting</groupId>
+			<artifactId>jboss-remoting</artifactId>
+			<version>4.0.21.Final</version>
+			<scope>provided</scope>
+		</dependency>
+		
 
 		<!-- Einde for debugging -->
 	</dependencies>
