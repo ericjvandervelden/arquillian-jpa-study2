@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakpoints>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="2897" lineNumber="78" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="2897"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="= /&lt;{BaseTransactionManagerDelegate.java[BaseTransactionManagerDelegate"/>
+<attrib name="charEnd" value="2933"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BaseTransactionManagerDelegate [line: 78] - BaseTransactionManagerDelegate"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.jbossatx.BaseTransactionManagerDelegate"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="3207" lineNumber="82" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="3207"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/wildfly\/wildfly-ejb3\/10.1.0.Final\/wildfly-ejb3-10.1.0.Final.jar&lt;org.jboss.as.ejb3.tx(CMTTxInterceptor.class[CMTTxInterceptor"/>
+<attrib name="charEnd" value="3251"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:CMTTxInterceptor [line: 82] - endTransaction(TransactionManager, Transaction)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.as.ejb3.tx.CMTTxInterceptor"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/wildfly\/wildfly-ejb3\/10.1.0.Final\/wildfly-ejb3-10.1.0.Final.jar&lt;org.jboss.as.ejb3.tx(CMTTxInterceptor.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="12167" lineNumber="273" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="12167"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="= /&lt;{CMTTxInterceptor.java[CMTTxInterceptor"/>
+<attrib name="charEnd" value="12216"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:CMTTxInterceptor [line: 273] - CMTTxInterceptor"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.as.ejb3.tx.CMTTxInterceptor"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="14494" lineNumber="334" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="14494"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/wildfly\/wildfly-ejb3\/10.1.0.Final\/wildfly-ejb3-10.1.0.Final.jar&lt;org.jboss.as.ejb3.tx(CMTTxInterceptor.class[CMTTxInterceptor"/>
+<attrib name="charEnd" value="14566"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:CMTTxInterceptor [line: 334] - requiresNew(InterceptorContext, EJBComponent, int)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.as.ejb3.tx.CMTTxInterceptor"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/wildfly\/wildfly-ejb3\/10.1.0.Final\/wildfly-ejb3-10.1.0.Final.jar&lt;org.jboss.as.ejb3.tx(CMTTxInterceptor.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/arquillian-jpa-study2/src/main/java/org/arquillian/jpa/study2/dao/CategoryDao.java" type="1"/>
+<marker charStart="513" lineNumber="21" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="513"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/src\/main\/java&lt;org.arquillian.jpa.study2.dao{CategoryDao.java[CategoryDao"/>
+<attrib name="charEnd" value="534"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="4"/>
+<attrib name="message" value="Line breakpoint:CategoryDao [line: 21] - create(Category)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.arquillian.jpa.study2.dao.CategoryDao"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="6186" lineNumber="185" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="6186"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="= /&lt;{DefaultPersistEventListener.java[DefaultPersistEventListener"/>
+<attrib name="charEnd" value="6234"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:DefaultPersistEventListener [line: 185] - DefaultPersistEventListener"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.hibernate.event.internal.DefaultPersistEventListener"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/arquillian-getting_started/src/test/java/my/own/GreeterTest.java" type="1"/>
+<marker charStart="892" lineNumber="34" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="892"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-getting_started/src\/test\/java&lt;my.own{GreeterTest.java[GreeterTest"/>
+<attrib name="charEnd" value="939"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="message" value="Line breakpoint:GreeterTest [line: 34] - shouldCreateGreeting()"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="my.own.GreeterTest"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/arquillian-jpa-study2/src/test/java/org/arquillian/jpa/study2/dao/ItemCategoryDaoTest.java" type="1"/>
+<marker charStart="6448" lineNumber="261" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="6448"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/src\/test\/java&lt;org.arquillian.jpa.study2.dao{ItemCategoryDaoTest.java[ItemCategoryDaoTest"/>
+<attrib name="charEnd" value="6480"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="4"/>
+<attrib name="message" value="Line breakpoint:ItemCategoryDaoTest [line: 261] - initb()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.arquillian.jpa.study2.dao.ItemCategoryDaoTest"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/arquillian-jpa-study2/src/test/java/org/arquillian/jpa/study2/dao/ItemCategoryDaoTest.java" type="1"/>
+<marker charStart="8742" lineNumber="370" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="org.eclipse.jdt.debug.core.conditionEnabled" value="false"/>
+<attrib name="charStart" value="8742"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/src\/test\/java&lt;org.arquillian.jpa.study2.dao{ItemCategoryDaoTest.java[ItemCategoryDaoTest"/>
+<attrib name="charEnd" value="8744"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="message" value="Line breakpoint:ItemCategoryDaoTest [line: 370] - fini()"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="4"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.arquillian.jpa.study2.dao.ItemCategoryDaoTest"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/arquillian-jpa-study2/src/main/java/org/arquillian/jpa/study2/dao/ItemDao.java" type="1"/>
+<marker charStart="549" lineNumber="24" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="549"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/src\/main\/java&lt;org.arquillian.jpa.study2.dao{ItemDao.java[ItemDao"/>
+<attrib name="charEnd" value="568"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="4"/>
+<attrib name="message" value="Line breakpoint:ItemDao [line: 24] - create(Item)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.arquillian.jpa.study2.dao.ItemDao"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="5986" lineNumber="146" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="5986"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="= /&lt;{JtaTransactionCoordinatorImpl.java[JtaTransactionCoordinatorImpl"/>
+<attrib name="charEnd" value="6009"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:JtaTransactionCoordinatorImpl [line: 146] - JtaTransactionCoordinatorImpl"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.hibernate.resource.transaction.backend.jta.internal.JtaTransactionCoordinatorImpl"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/abc-collection-study/src/test/java/set/ManyToManyTest.java" type="1"/>
+<marker charStart="1318" lineNumber="56" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="1318"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=abc-collection-study/src\/test\/java&lt;set{ManyToManyTest.java[ManyToManyTest"/>
+<attrib name="charEnd" value="1370"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="message" value="Line breakpoint:ManyToManyTest [line: 56] - sizeCollectionsAgain()"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="set.ManyToManyTest"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="2518" lineNumber="94" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="2518"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="= /&lt;{SequenceStructure.java[SequenceStructure~buildCallback~QSessionImplementor;["/>
+<attrib name="charEnd" value="2628"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:SequenceStructure$1 [line: 94] - new Anonymous"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.hibernate.id.enhanced.SequenceStructure"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="2696" lineNumber="85" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="2696"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="= /&lt;{StatementPreparerImpl.java[StatementPreparerImpl~buildPreparedStatementPreparationTemplate~QString;~Z["/>
+<attrib name="charEnd" value="2717"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:StatementPreparerImpl$1 [line: 85] - new Anonymous"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.hibernate.engine.jdbc.internal.StatementPreparerImpl"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="3950" lineNumber="102" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="3950"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="= /&lt;{TransactionImple.java[TransactionImple"/>
+<attrib name="charEnd" value="3989"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TransactionImple [line: 102] - TransactionImple"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.internal.jta.transaction.arjunacore.TransactionImple"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="5868" lineNumber="183" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="5868"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.internal.jta.transaction.arjunacore(TransactionImple.class[TransactionImple"/>
+<attrib name="charEnd" value="5910"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TransactionImple [line: 183] - commit()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.internal.jta.transaction.arjunacore.TransactionImple"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.internal.jta.transaction.arjunacore(TransactionImple.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+</breakpoints>
