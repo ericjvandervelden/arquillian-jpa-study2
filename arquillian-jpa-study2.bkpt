@@ -19,6 +19,23 @@
 </breakpoint>
 <breakpoint enabled="true" persistant="true" registered="true">
 <resource path="/" type="8"/>
+<marker charStart="18253" lineNumber="750" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="18253"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager(AbstractConnectionManager.class[AbstractConnectionManager"/>
+<attrib name="charEnd" value="18290"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:AbstractConnectionManager [line: 750] - allocateConnection(ManagedConnectionFactory, ConnectionRequestInfo)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.connectionmanager.AbstractConnectionManager"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager(AbstractConnectionManager.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
 <marker charStart="12430" lineNumber="350" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
 <attrib name="charStart" value="12430"/>
 <attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
@@ -30,6 +47,40 @@
 <attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
 <attrib name="org.eclipse.jdt.debug.core.typeName" value="org.postgresql.jdbc2.AbstractJdbc2Statement"/>
 <attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/postgresql\/postgresql\/9.4-1202-jdbc42\/postgresql-9.4-1202-jdbc42.jar&lt;org.postgresql.jdbc2(AbstractJdbc2Statement.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="11487" lineNumber="282" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="11487"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/postgresql\/postgresql\/9.4-1202-jdbc42\/postgresql-9.4-1202-jdbc42.jar&lt;org.postgresql.jdbc3(AbstractJdbc3Connection.class[AbstractJdbc3Connection"/>
+<attrib name="charEnd" value="11579"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:AbstractJdbc3Connection [line: 282] - prepareStatement(String, int, int)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.postgresql.jdbc3.AbstractJdbc3Connection"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/postgresql\/postgresql\/9.4-1202-jdbc42\/postgresql-9.4-1202-jdbc42.jar&lt;org.postgresql.jdbc3(AbstractJdbc3Connection.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="15873" lineNumber="453" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="15873"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/postgresql\/postgresql\/9.4-1202-jdbc42\/postgresql-9.4-1202-jdbc42.jar&lt;org.postgresql.ds.jdbc23(AbstractJdbc23PooledConnection$StatementHandler.class[StatementHandler"/>
+<attrib name="charEnd" value="15920"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:AbstractJdbc23PooledConnection$StatementHandler [line: 453] - invoke(Object, Method, Object[])"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.postgresql.ds.jdbc23.AbstractJdbc23PooledConnection$StatementHandler"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/postgresql\/postgresql\/9.4-1202-jdbc42\/postgresql-9.4-1202-jdbc42.jar&lt;org.postgresql.ds.jdbc23(AbstractJdbc23PooledConnection$StatementHandler.class"/>
 <attrib name="workingset_name" value=""/>
 <attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
 </marker>
@@ -255,6 +306,448 @@
 </breakpoint>
 <breakpoint enabled="true" persistant="true" registered="true">
 <resource path="/" type="8"/>
+<marker charStart="39113" lineNumber="1368" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="39113"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="39160"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 1368] - Begin(BasicAction)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="42097" lineNumber="1449" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="42097"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="42144"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 1449] - End(boolean)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="55563" lineNumber="1844" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="55563"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="55610"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 1844] - phase2Commit(boolean)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="59843" lineNumber="1960" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="59843"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="59890"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 1960] - phase2Abort(boolean)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="61861" lineNumber="2024" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="61861"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="61904"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 2024] - async_prepare(boolean)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="64526" lineNumber="2089" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="64526"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="64573"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 2089] - prepare(boolean)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="72846" lineNumber="2347" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="72846"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="72893"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 2347] - onePhaseCommit(boolean)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="81306" lineNumber="2596" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="81306"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="81376"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 2596] - doPrepare(boolean)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="83970" lineNumber="2660" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="83970"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="84016"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 2660] - doPrepare(boolean, AbstractRecord)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="89492" lineNumber="2796" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="89492"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="89536"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 2796] - doCommit(RecordList, boolean)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="92250" lineNumber="2867" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="92250"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="92297"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 2867] - doCommit(boolean, AbstractRecord)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="97130" lineNumber="2992" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="97130"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="97198"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 2992] - doAbort(RecordList, boolean)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="97519" lineNumber="3005" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="97519"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="97566"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 3005] - doAbort(boolean, AbstractRecord)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="101034" lineNumber="3088" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="101034"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="101080"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 3088] - insertRecord(RecordList, AbstractRecord)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="102586" lineNumber="3139" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="102586"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="102629"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 3139] - updateHeuristic(int, boolean)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="105598" lineNumber="3219" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="105598"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="105645"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 3219] - updateState()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="108854" lineNumber="3308" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="108854"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="108887"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 3308] - createPreparedLists()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="109591" lineNumber="3334" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="109591"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="109624"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 3334] - checkIsCurrent()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="110588" lineNumber="3369" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="110588"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="110620"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 3369] - checkChildren(boolean)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="114609" lineNumber="3477" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="114609"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="114633"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 3477] - removeAllChildThreads()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="115743" lineNumber="3515" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="115743"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="115790"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 3515] - actionInitialise(BasicAction)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="117533" lineNumber="3572" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="117533"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="117580"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 3572] - doForget(RecordList)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="120148" lineNumber="3638" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="120148"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="120195"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 3638] - doCleanup(RecordList)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="121264" lineNumber="3674" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="121264"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="121295"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 3674] - doOnePhase()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="121823" lineNumber="3694" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="121823"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="121885"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 3694] - merge(AbstractRecord)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="122251" lineNumber="3707" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="122251"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class[BasicAction"/>
+<attrib name="charEnd" value="122299"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:BasicAction [line: 3707] - addDeferredThrowables(AbstractRecord, List&lt;Throwable&gt;)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.coordinator.BasicAction"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.coordinator(BasicAction.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
 <marker charStart="3207" lineNumber="82" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
 <attrib name="charStart" value="3207"/>
 <attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
@@ -328,10 +821,61 @@
 <attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/src\/main\/java&lt;org.arquillian.jpa.study2.dao{CategoryDao.java[CategoryDao"/>
 <attrib name="charEnd" value="534"/>
 <attrib name="org.eclipse.debug.core.enabled" value="true"/>
-<attrib name="org.eclipse.jdt.debug.core.installCount" value="8"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="13"/>
 <attrib name="message" value="Line breakpoint:CategoryDao [line: 21] - create(Category)"/>
 <attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
 <attrib name="org.eclipse.jdt.debug.core.typeName" value="org.arquillian.jpa.study2.dao.CategoryDao"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="2619" lineNumber="65" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="2619"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/postgresql\/postgresql\/9.4-1202-jdbc42\/postgresql-9.4-1202-jdbc42.jar&lt;org.postgresql.core(ConnectionFactory.class[ConnectionFactory"/>
+<attrib name="charEnd" value="2731"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:ConnectionFactory [line: 65] - openConnection(HostSpec[], String, String, Properties, Logger)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.postgresql.core.ConnectionFactory"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/postgresql\/postgresql\/9.4-1202-jdbc42\/postgresql-9.4-1202-jdbc42.jar&lt;org.postgresql.core(ConnectionFactory.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="7788" lineNumber="201" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="7788"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.common(CoordinatorEnvironmentBean.class[CoordinatorEnvironmentBean"/>
+<attrib name="charEnd" value="7818"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:CoordinatorEnvironmentBean [line: 201] - isCommitOnePhase()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.common.CoordinatorEnvironmentBean"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.common(CoordinatorEnvironmentBean.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="8037" lineNumber="211" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="8037"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.common(CoordinatorEnvironmentBean.class[CoordinatorEnvironmentBean"/>
+<attrib name="charEnd" value="8082"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:CoordinatorEnvironmentBean [line: 211] - setCommitOnePhase(boolean)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.arjuna.common.CoordinatorEnvironmentBean"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.arjuna.common(CoordinatorEnvironmentBean.class"/>
 <attrib name="workingset_name" value=""/>
 <attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
 </marker>
@@ -376,7 +920,7 @@
 <attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/src\/test\/java&lt;org.arquillian.jpa.study2.dao{ItemCategoryDaoTest.java[ItemCategoryDaoTest"/>
 <attrib name="charEnd" value="6480"/>
 <attrib name="org.eclipse.debug.core.enabled" value="true"/>
-<attrib name="org.eclipse.jdt.debug.core.installCount" value="7"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="11"/>
 <attrib name="message" value="Line breakpoint:ItemCategoryDaoTest [line: 261] - initb()"/>
 <attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
 <attrib name="org.eclipse.jdt.debug.core.typeName" value="org.arquillian.jpa.study2.dao.ItemCategoryDaoTest"/>
@@ -394,7 +938,7 @@
 <attrib name="charEnd" value="8744"/>
 <attrib name="org.eclipse.debug.core.enabled" value="true"/>
 <attrib name="message" value="Line breakpoint:ItemCategoryDaoTest [line: 370] - fini()"/>
-<attrib name="org.eclipse.jdt.debug.core.installCount" value="7"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="11"/>
 <attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
 <attrib name="org.eclipse.jdt.debug.core.typeName" value="org.arquillian.jpa.study2.dao.ItemCategoryDaoTest"/>
 <attrib name="workingset_name" value=""/>
@@ -409,7 +953,7 @@
 <attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/src\/main\/java&lt;org.arquillian.jpa.study2.dao{ItemDao.java[ItemDao"/>
 <attrib name="charEnd" value="568"/>
 <attrib name="org.eclipse.debug.core.enabled" value="true"/>
-<attrib name="org.eclipse.jdt.debug.core.installCount" value="8"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="13"/>
 <attrib name="message" value="Line breakpoint:ItemDao [line: 24] - create(Item)"/>
 <attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
 <attrib name="org.eclipse.jdt.debug.core.typeName" value="org.arquillian.jpa.study2.dao.ItemDao"/>
@@ -502,6 +1046,23 @@
 </breakpoint>
 <breakpoint enabled="true" persistant="true" registered="true">
 <resource path="/" type="8"/>
+<marker charStart="47573" lineNumber="1174" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="47573"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/postgresql\/postgresql\/9.4-1202-jdbc42\/postgresql-9.4-1202-jdbc42.jar&lt;org.postgresql.core.v3(QueryExecutorImpl.class[QueryExecutorImpl"/>
+<attrib name="charEnd" value="47619"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:QueryExecutorImpl [line: 1174] - sendParse(SimpleQuery, SimpleParameterList, boolean)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.postgresql.core.v3.QueryExecutorImpl"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/postgresql\/postgresql\/9.4-1202-jdbc42\/postgresql-9.4-1202-jdbc42.jar&lt;org.postgresql.core.v3(QueryExecutorImpl.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
 <marker charStart="1390" lineNumber="35" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
 <attrib name="charStart" value="1390"/>
 <attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
@@ -530,6 +1091,40 @@
 <attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
 <attrib name="org.eclipse.jdt.debug.core.typeName" value="org.hibernate.resource.transaction.backend.jta.internal.synchronization.RegisteredSynchronization"/>
 <attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.0.10.Final\/hibernate-core-5.0.10.Final.jar&lt;org.hibernate.resource.transaction.backend.jta.internal.synchronization(RegisteredSynchronization.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="22966" lineNumber="649" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="22966"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.pool.mcp(SemaphoreArrayListManagedConnectionPool.class[SemaphoreArrayListManagedConnectionPool"/>
+<attrib name="charEnd" value="23063"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:SemaphoreArrayListManagedConnectionPool [line: 649] - returnConnection(ConnectionListener, boolean, boolean)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.connectionmanager.pool.mcp.SemaphoreArrayListManagedConnectionPool"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.pool.mcp(SemaphoreArrayListManagedConnectionPool.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="23288" lineNumber="615" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="23288"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.pool.mcp(SemaphoreConcurrentLinkedDequeManagedConnectionPool.class[SemaphoreConcurrentLinkedDequeManagedConnectionPool"/>
+<attrib name="charEnd" value="23385"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:SemaphoreConcurrentLinkedDequeManagedConnectionPool [line: 615] - returnConnection(ConnectionListener, boolean, boolean)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.connectionmanager.pool.mcp.SemaphoreConcurrentLinkedDequeManagedConnectionPool"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.pool.mcp(SemaphoreConcurrentLinkedDequeManagedConnectionPool.class"/>
 <attrib name="workingset_name" value=""/>
 <attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
 </marker>
@@ -563,6 +1158,40 @@
 <attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
 <attrib name="org.eclipse.jdt.debug.core.typeName" value="org.hibernate.id.enhanced.SequenceStructure"/>
 <attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.0.10.Final\/hibernate-core-5.0.10.Final.jar&lt;org.hibernate.id.enhanced(SequenceStructure.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="73636" lineNumber="2338" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="73636"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.0.10.Final\/hibernate-core-5.0.10.Final.jar&lt;org.hibernate.internal(SessionImpl.class[SessionImpl"/>
+<attrib name="charEnd" value="73696"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:SessionImpl [line: 2338] - beforeTransactionCompletion()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.hibernate.internal.SessionImpl"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.0.10.Final\/hibernate-core-5.0.10.Final.jar&lt;org.hibernate.internal(SessionImpl.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="74052" lineNumber="2351" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="74052"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.0.10.Final\/hibernate-core-5.0.10.Final.jar&lt;org.hibernate.internal(SessionImpl.class[SessionImpl"/>
+<attrib name="charEnd" value="74157"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:SessionImpl [line: 2351] - afterTransactionCompletion(boolean, boolean)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.hibernate.internal.SessionImpl"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.0.10.Final\/hibernate-core-5.0.10.Final.jar&lt;org.hibernate.internal(SessionImpl.class"/>
 <attrib name="workingset_name" value=""/>
 <attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
 </marker>
@@ -796,6 +1425,567 @@
 <attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
 <attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.internal.jta.transaction.arjunacore.TransactionImple"/>
 <attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.internal.jta.transaction.arjunacore(TransactionImple.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="37973" lineNumber="1267" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="37973"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.internal.jta.transaction.arjunacore(TransactionImple.class[TransactionImple"/>
+<attrib name="charEnd" value="38015"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TransactionImple [line: 1267] - rollbackAndDisassociate()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.internal.jta.transaction.arjunacore.TransactionImple"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.internal.jta.transaction.arjunacore(TransactionImple.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="39286" lineNumber="1313" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="39286"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.internal.jta.transaction.arjunacore(TransactionImple.class[TransactionImple"/>
+<attrib name="charEnd" value="39310"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TransactionImple [line: 1313] - endSuspendedRMs()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.internal.jta.transaction.arjunacore.TransactionImple"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.internal.jta.transaction.arjunacore(TransactionImple.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="41762" lineNumber="1417" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="41762"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.internal.jta.transaction.arjunacore(TransactionImple.class[TransactionImple"/>
+<attrib name="charEnd" value="41798"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TransactionImple [line: 1417] - threadIsActive(XAResource)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.internal.jta.transaction.arjunacore.TransactionImple"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.internal.jta.transaction.arjunacore(TransactionImple.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="42794" lineNumber="1476" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="42794"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.internal.jta.transaction.arjunacore(TransactionImple.class[TransactionImple"/>
+<attrib name="charEnd" value="42816"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TransactionImple [line: 1476] - isNewRM(XAResource)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.internal.jta.transaction.arjunacore.TransactionImple"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.internal.jta.transaction.arjunacore(TransactionImple.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="43990" lineNumber="1529" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="43990"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.internal.jta.transaction.arjunacore(TransactionImple.class[TransactionImple"/>
+<attrib name="charEnd" value="44014"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TransactionImple [line: 1529] - createXid(boolean, XAModifier, XAResource)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.internal.jta.transaction.arjunacore.TransactionImple"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.internal.jta.transaction.arjunacore(TransactionImple.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="3968" lineNumber="100" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="3968"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.internal.jta.transaction.arjunacore(TransactionSynchronizationRegistryImple.class[TransactionSynchronizationRegistryImple"/>
+<attrib name="charEnd" value="4016"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TransactionSynchronizationRegistryImple [line: 100] - putResource(Object, Object)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.internal.jta.transaction.arjunacore.TransactionSynchronizationRegistryImple"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.internal.jta.transaction.arjunacore(TransactionSynchronizationRegistryImple.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="4534" lineNumber="116" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="4534"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.internal.jta.transaction.arjunacore(TransactionSynchronizationRegistryImple.class[TransactionSynchronizationRegistryImple"/>
+<attrib name="charEnd" value="4582"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TransactionSynchronizationRegistryImple [line: 116] - getResource(Object)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.internal.jta.transaction.arjunacore.TransactionSynchronizationRegistryImple"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.internal.jta.transaction.arjunacore(TransactionSynchronizationRegistryImple.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="5073" lineNumber="132" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="5073"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.internal.jta.transaction.arjunacore(TransactionSynchronizationRegistryImple.class[TransactionSynchronizationRegistryImple"/>
+<attrib name="charEnd" value="5121"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TransactionSynchronizationRegistryImple [line: 132] - registerInterposedSynchronization(Synchronization)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.arjuna.ats.internal.jta.transaction.arjunacore.TransactionSynchronizationRegistryImple"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/narayana\/jts\/narayana-jts-idlj\/5.3.3.Final\/narayana-jts-idlj-5.3.3.Final.jar&lt;com.arjuna.ats.internal.jta.transaction.arjunacore(TransactionSynchronizationRegistryImple.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="6854" lineNumber="158" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="6854"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/wildfly\/wildfly-jpa\/10.1.0.Final\/wildfly-jpa-10.1.0.Final.jar&lt;org.jboss.as.jpa.transaction(TransactionUtil$SessionSynchronization.class[SessionSynchronization"/>
+<attrib name="charEnd" value="6896"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TransactionUtil$SessionSynchronization [line: 158] - beforeCompletion()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.as.jpa.transaction.TransactionUtil$SessionSynchronization"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/wildfly\/wildfly-jpa\/10.1.0.Final\/wildfly-jpa-10.1.0.Final.jar&lt;org.jboss.as.jpa.transaction(TransactionUtil$SessionSynchronization.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="7159" lineNumber="166" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="7159"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/wildfly\/wildfly-jpa\/10.1.0.Final\/wildfly-jpa-10.1.0.Final.jar&lt;org.jboss.as.jpa.transaction(TransactionUtil$SessionSynchronization.class[SessionSynchronization"/>
+<attrib name="charEnd" value="7200"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TransactionUtil$SessionSynchronization [line: 166] - afterCompletion(int)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.as.jpa.transaction.TransactionUtil$SessionSynchronization"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/wildfly\/wildfly-jpa\/10.1.0.Final\/wildfly-jpa-10.1.0.Final.jar&lt;org.jboss.as.jpa.transaction(TransactionUtil$SessionSynchronization.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="7618" lineNumber="176" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="7618"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/wildfly\/wildfly-jpa\/10.1.0.Final\/wildfly-jpa-10.1.0.Final.jar&lt;org.jboss.as.jpa.transaction(TransactionUtil$SessionSynchronization.class[SessionSynchronization"/>
+<attrib name="charEnd" value="7718"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TransactionUtil$SessionSynchronization [line: 176] - safeCloseEntityManager()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.as.jpa.transaction.TransactionUtil$SessionSynchronization"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/wildfly\/wildfly-jpa\/10.1.0.Final\/wildfly-jpa-10.1.0.Final.jar&lt;org.jboss.as.jpa.transaction(TransactionUtil$SessionSynchronization.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="8856" lineNumber="197" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="8856"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/wildfly\/wildfly-jpa\/10.1.0.Final\/wildfly-jpa-10.1.0.Final.jar&lt;org.jboss.as.jpa.transaction(TransactionUtil$SessionSynchronization.class[SessionSynchronization"/>
+<attrib name="charEnd" value="8973"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TransactionUtil$SessionSynchronization [line: 197] - onEvent(TransactionEvent)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.as.jpa.transaction.TransactionUtil$SessionSynchronization"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/wildfly\/wildfly-jpa\/10.1.0.Final\/wildfly-jpa-10.1.0.Final.jar&lt;org.jboss.as.jpa.transaction(TransactionUtil$SessionSynchronization.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="9797" lineNumber="263" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="9797"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener.class[TxConnectionListener"/>
+<attrib name="charEnd" value="9914"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TxConnectionListener [line: 263] - enlist()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.connectionmanager.listener.TxConnectionListener"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="14561" lineNumber="404" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="14561"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener.class[TxConnectionListener"/>
+<attrib name="charEnd" value="14600"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TxConnectionListener [line: 404] - delist()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.connectionmanager.listener.TxConnectionListener"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="20128" lineNumber="545" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="20128"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener.class[TxConnectionListener"/>
+<attrib name="charEnd" value="20169"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TxConnectionListener [line: 545] - dissociate()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.connectionmanager.listener.TxConnectionListener"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="22655" lineNumber="636" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="22655"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener.class[TxConnectionListener"/>
+<attrib name="charEnd" value="22734"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TxConnectionListener [line: 636] - connectionClosed(ConnectionEvent)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.connectionmanager.listener.TxConnectionListener"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="24468" lineNumber="690" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="24468"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener.class[TxConnectionListener"/>
+<attrib name="charEnd" value="24501"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TxConnectionListener [line: 690] - localTransactionStarted(ConnectionEvent)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.connectionmanager.listener.TxConnectionListener"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="24621" lineNumber="699" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="24621"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener.class[TxConnectionListener"/>
+<attrib name="charEnd" value="24655"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TxConnectionListener [line: 699] - localTransactionCommitted(ConnectionEvent)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.connectionmanager.listener.TxConnectionListener"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="24776" lineNumber="708" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="24776"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener.class[TxConnectionListener"/>
+<attrib name="charEnd" value="24810"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TxConnectionListener [line: 708] - localTransactionRolledback(ConnectionEvent)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.connectionmanager.listener.TxConnectionListener"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="24957" lineNumber="718" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="24957"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener.class[TxConnectionListener"/>
+<attrib name="charEnd" value="24990"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TxConnectionListener [line: 718] - tidyup()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.connectionmanager.listener.TxConnectionListener"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="32834" lineNumber="982" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="32834"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener$TransactionSynchronization.class[TransactionSynchronization"/>
+<attrib name="charEnd" value="32906"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TxConnectionListener$TransactionSynchronization [line: 982] - enlist()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.connectionmanager.listener.TxConnectionListener$TransactionSynchronization"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener$TransactionSynchronization.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="35312" lineNumber="1051" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="35312"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener$TransactionSynchronization.class[TransactionSynchronization"/>
+<attrib name="charEnd" value="35345"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TxConnectionListener$TransactionSynchronization [line: 1051] - beforeCompletion()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.connectionmanager.listener.TxConnectionListener$TransactionSynchronization"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener$TransactionSynchronization.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="38016" lineNumber="1113" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="38016"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener$TransactionSynchronization.class[TransactionSynchronization"/>
+<attrib name="charEnd" value="38074"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:TxConnectionListener$TransactionSynchronization [line: 1113] - afterCompletion(int)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.connectionmanager.listener.TxConnectionListener$TransactionSynchronization"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.connectionmanager.listener(TxConnectionListener$TransactionSynchronization.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="1346" lineNumber="46" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="1346"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.0.10.Final\/hibernate-core-5.0.10.Final.jar&lt;org.hibernate.type.descriptor.sql(VarcharTypeDescriptor.class[VarcharTypeDescriptor"/>
+<attrib name="charEnd" value="1431"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:VarcharTypeDescriptor$1 [line: 46] - getBinder(JavaTypeDescriptor&lt;X&gt;)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.hibernate.type.descriptor.sql.VarcharTypeDescriptor"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.0.10.Final\/hibernate-core-5.0.10.Final.jar&lt;org.hibernate.type.descriptor.sql(VarcharTypeDescriptor.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="18587" lineNumber="612" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="18587"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-jdbc\/1.3.4.Final\/ironjacamar-jdbc-1.3.4.Final.jar&lt;org.jboss.jca.adapters.jdbc.xa(XAManagedConnectionFactory.class[XAManagedConnectionFactory"/>
+<attrib name="charEnd" value="18618"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:XAManagedConnectionFactory [line: 612] - getXADataSource()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.adapters.jdbc.xa.XAManagedConnectionFactory"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-jdbc\/1.3.4.Final\/ironjacamar-jdbc-1.3.4.Final.jar&lt;org.jboss.jca.adapters.jdbc.xa(XAManagedConnectionFactory.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="3437" lineNumber="104" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="3437"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.tx.jbossts(XAResourceWrapperImpl.class[XAResourceWrapperImpl"/>
+<attrib name="charEnd" value="3451"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:XAResourceWrapperImpl [line: 104] - commit(Xid, boolean)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.tx.jbossts.XAResourceWrapperImpl"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.tx.jbossts(XAResourceWrapperImpl.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="3628" lineNumber="115" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="3628"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.tx.jbossts(XAResourceWrapperImpl.class[XAResourceWrapperImpl"/>
+<attrib name="charEnd" value="3642"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:XAResourceWrapperImpl [line: 115] - end(Xid, int)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.tx.jbossts.XAResourceWrapperImpl"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.tx.jbossts(XAResourceWrapperImpl.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="3805" lineNumber="126" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="3805"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.tx.jbossts(XAResourceWrapperImpl.class[XAResourceWrapperImpl"/>
+<attrib name="charEnd" value="3819"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:XAResourceWrapperImpl [line: 126] - forget(Xid)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.tx.jbossts.XAResourceWrapperImpl"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.tx.jbossts(XAResourceWrapperImpl.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="4968" lineNumber="174" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="4968"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.tx.jbossts(XAResourceWrapperImpl.class[XAResourceWrapperImpl"/>
+<attrib name="charEnd" value="4982"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:XAResourceWrapperImpl [line: 174] - prepare(Xid)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.tx.jbossts.XAResourceWrapperImpl"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.tx.jbossts(XAResourceWrapperImpl.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="5152" lineNumber="185" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="5152"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.tx.jbossts(XAResourceWrapperImpl.class[XAResourceWrapperImpl"/>
+<attrib name="charEnd" value="5190"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:XAResourceWrapperImpl [line: 185] - recover(int)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.tx.jbossts.XAResourceWrapperImpl"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.tx.jbossts(XAResourceWrapperImpl.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="5288" lineNumber="193" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="5288"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.tx.jbossts(XAResourceWrapperImpl.class[XAResourceWrapperImpl"/>
+<attrib name="charEnd" value="5302"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:XAResourceWrapperImpl [line: 193] - rollback(Xid)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.tx.jbossts.XAResourceWrapperImpl"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.tx.jbossts(XAResourceWrapperImpl.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="5640" lineNumber="212" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="5640"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.tx.jbossts(XAResourceWrapperImpl.class[XAResourceWrapperImpl"/>
+<attrib name="charEnd" value="5654"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:XAResourceWrapperImpl [line: 212] - start(Xid, int)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.tx.jbossts.XAResourceWrapperImpl"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.tx.jbossts(XAResourceWrapperImpl.class"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="6524" lineNumber="260" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="charStart" value="6524"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.tx.jbossts(XAResourceWrapperImpl.class[XAResourceWrapperImpl"/>
+<attrib name="charEnd" value="6560"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="message" value="Line breakpoint:XAResourceWrapperImpl [line: 260] - convertXid(Xid)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.jboss.jca.core.tx.jbossts.XAResourceWrapperImpl"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=arquillian-jpa-study2/C:\/Users\/ervelden\/.m2\/repository\/org\/jboss\/ironjacamar\/ironjacamar-core-impl\/1.3.4.Final\/ironjacamar-core-impl-1.3.4.Final.jar&lt;org.jboss.jca.core.tx.jbossts(XAResourceWrapperImpl.class"/>
 <attrib name="workingset_name" value=""/>
 <attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
 </marker>
