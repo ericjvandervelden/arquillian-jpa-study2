@@ -66,7 +66,71 @@ Build id: 20170620-1800
 D:\Users\ervelden\workspaces\workspace-arquillian
 
 / we start nog een eclipse, en we maken nieuwe workspace,
-
 D:\Users\ervelden\workspaces\workspace-arquillian-copy
 
+/ we git clone nog een keer de git repo, maar we commit nooit	, 
+/ we openen de nieuwe eclipse hierop	,
+/ we kijken ook of .project verschijnen in deze git repo	,
+
+ERVELDEN@LBNL031514 MINGW64 /d/Users/ervelden/tmp
+$ git clone https://github.com/ericjvandervelden/arquillian-jpa-study2.git arquillian-jpa-study2-copy
+$ ls arquillian-jpa-study2-copy/
+arquillian-jpa-study2.bkpt  Notes.txt  pom.xml  README.txt  src/
+
+/ start eclipse
 C:\Users\ervelden\eclipse\jbosstools-jee-oxygen\eclipse>eclipse.exe
+File, Import, Maven, Existing maven project
+/ kies,
+D:\Users\ervelden\tmp\arquillian-jpa-study2-copy
+
+/ in eclipse: window, preferences, Validation, 
+Disable all
+/ herstart, 
+/ nu builds project arquillian-jpa-study2-copy snel,
+
+/ in Breakpoints pane, right click, 
+Import breakpoints,
+/ kies de file,
+/d/Users/ervelden/tmp/arquillian-jpa-study2-copy
+/ OK,
+/ we zien project
+arquillian-jpa-study2
+
+/ dubbel klik op een b in BasicAction	, we zien in de source pane BasicAction verschijnen	,
+/ main 2pc class	,
+package com.arjuna.ats.arjuna.coordinator;
+public class BasicAction
+
+/ dan gaan we de remote debug config maken	,
+/ in eclipse, 
+Debug configurations, Remote Java application, click New icon	,
+Name: arquillian-jpa-study2-remote-debug
+Project: arquillian-jpa-study2
+Host: localhost
+Port: 8787
+
+/ in forge
+[arquillian-jpa-study2]$ build test
+/ hij valt in b
+/ OK
+
+/ 7	. 
+
+/ lees,
+https://stackoverflow.com/questions/11340959/is-it-possible-to-save-a-set-of-breakpoints
+
+/ working sets
+/ TODO
+
+/ we zagen nadat we group by hadden gedaan, alle b's onder een group, 
+/ doe dan
+V group by, breakpoints	, 
+/ dan is de group weg	, 
+
+/ we willen alle BasicAction bs in een bkpt file	,
+/ select de 1ste met klik, en met Shift klik de laatste, je hebt alle BasicAction bs, 
+/ je hoeft ze niet te select, maar als je dat wilt , right click en kies Enable	, hij enables de selected bs, 
+/ right click, Export, 
+/ remove alle bs,
+/ Import , use de nieuwe zojuist geexporte file	,
+/ we zien alleen BasicAction bs	,
